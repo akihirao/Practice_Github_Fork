@@ -1,6 +1,12 @@
 Japanese_name,Scientific_name,No_assembly_of_the_species,represent_assembly,Genome_size_of_the_species_Mbp,represent_assembly_status,Contig_N50,Scaffold_N50
 シロイヌナズナ,Arabidopsis thaliana,20,GCA_028009825.1,133,Complete Genome,26149336,26149336
+ハクサンハタザオ,Arabidopsis halleri,5,GCA_011037025.1,174,Scaffold,12067,254442
+メチニコビア,Metschnikowia reukaufii,3,GCA_003401635.1,16,Chromosome,3323814,3387409
 ニホンウナギ,Anguilla japonica Temminck & Schlegel 1846,7,GCA_025169545.1,1029,Chromosome,21484275,58706456
 マアナゴ,Conger myriaster (Brevoort 1856),0,NA,NA,NA,NA,NA
 ハモ,Muraenesox cinereus (Forsskål 1775),0,NA,NA,NA,NA,NA
 イラコアナゴ,Synaphobranchus kaupii Johnson 1862,1,GCA_029718625.1,1503,Chromosome,519789,76846976
+シロナガスクジラ,Balaenoptera musculus,5,GCF_009873245.2,2375,Chromosome,6315640,110314666
+ミンククジラ,Balaenoptera acutorostrata,1,GCF_000493695.1,2432,Scaffold,22690,12843668
+ブリ,Seriola quinqueradiata Temminck et Schlegel 1845,3,GCA_003402435.1,627,Scaffold,20864,1433177
+マハゼ,Acanthogobius flavimanus Temminck et Schlegel 1845,0,NA,NA,NA,NA,NA
